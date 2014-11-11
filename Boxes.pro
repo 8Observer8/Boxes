@@ -13,9 +13,9 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = Boxes
 TEMPLATE = app
 
-INCLUDEPATH += "E:/bullet/src"
+INCLUDEPATH += "C:/bullet/src"
 
-LIBS += "E:/bullet/lib/libBullet.a"
+LIBS += "C:/bullet/lib/libBullet.a"
 
 
 SOURCES += main.cpp\
